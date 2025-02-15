@@ -5,6 +5,7 @@
 ./node_modules
 node_modules
 /.pnp
+/home/afolabi/concordium-dapp-examples/gallery (copy)/verifier/target
 .pnp.js
 
 # testing
